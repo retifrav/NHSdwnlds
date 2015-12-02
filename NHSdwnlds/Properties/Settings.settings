@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NHSdwnlds.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="dirName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">downloads</Value>
+    </Setting>
+    <Setting Name="link2add" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://datagov.ic.nhs.uk/T201202ADD%20REXT.CSV</Value>
+    </Setting>
+    <Setting Name="link2pdp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://datagov.ic.nhs.uk/T201109PDP%20IEXT.CSV</Value>
+    </Setting>
+    <Setting Name="dirNameXML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xmls</Value>
+    </Setting>
+    <Setting Name="readingBuffer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

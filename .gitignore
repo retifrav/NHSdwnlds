@@ -1,0 +1,5 @@
+obj/
+bin/
+[Tt]humbs.db
+*.vshost.*
+**/*.suo
